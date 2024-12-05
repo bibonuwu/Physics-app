@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\bibon\\source\\repos\\Physics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03FF693D-19D3-4A99-A4A8-4489AA279E24}|Physics\\Physics.csproj|c:\\users\\bibon\\source\\repos\\physics\\physics\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{03FF693D-19D3-4A99-A4A8-4489AA279E24}|Physics\\Physics.csproj|C:\\Users\\bibon\\source\\repos\\Physics\\physics\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{03FF693D-19D3-4A99-A4A8-4489AA279E24}|Physics\\Physics.csproj|solutionrelative:physics\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -18,20 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\bibon\\source\\repos\\Physics\\Physics\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Physics\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\bibon\\source\\repos\\Physics\\Physics\\MainWindow.xaml",
-              "RelativeToolTip": "Physics\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T11:48:49.645Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -40,9 +28,21 @@
               "RelativeDocumentMoniker": "Physics\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\bibon\\source\\repos\\Physics\\Physics\\MainWindow.xaml.cs",
               "RelativeToolTip": "Physics\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAiwLIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:48:48.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bibon\\source\\repos\\Physics\\Physics\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Physics\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bibon\\source\\repos\\Physics\\Physics\\MainWindow.xaml*",
+              "RelativeToolTip": "Physics\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T11:48:49.645Z",
               "EditorCaption": ""
             }
           ]
